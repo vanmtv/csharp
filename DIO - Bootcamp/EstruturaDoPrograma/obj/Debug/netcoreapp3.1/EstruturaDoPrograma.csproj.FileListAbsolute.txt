@@ -1,0 +1,11 @@
+d:\Users\vanessa.regina\Desktop\DIO - Bootcamp\EstruturaDOPrograma\bin\Debug\netcoreapp3.1\EstruturaDoPrograma.exe
+D:\Users\vanessa.regina\Desktop\DIO - Bootcamp\EstruturaDOPrograma\bin\Debug\netcoreapp3.1\EstruturaDoPrograma.deps.json
+D:\Users\vanessa.regina\Desktop\DIO - Bootcamp\EstruturaDOPrograma\bin\Debug\netcoreapp3.1\EstruturaDoPrograma.runtimeconfig.json
+D:\Users\vanessa.regina\Desktop\DIO - Bootcamp\EstruturaDOPrograma\bin\Debug\netcoreapp3.1\EstruturaDoPrograma.runtimeconfig.dev.json
+d:\Users\vanessa.regina\Desktop\DIO - Bootcamp\EstruturaDOPrograma\bin\Debug\netcoreapp3.1\EstruturaDoPrograma.dll
+d:\Users\vanessa.regina\Desktop\DIO - Bootcamp\EstruturaDOPrograma\bin\Debug\netcoreapp3.1\EstruturaDoPrograma.pdb
+d:\Users\vanessa.regina\Desktop\DIO - Bootcamp\EstruturaDOPrograma\obj\Debug\netcoreapp3.1\EstruturaDoPrograma.csprojAssemblyReference.cache
+d:\Users\vanessa.regina\Desktop\DIO - Bootcamp\EstruturaDOPrograma\obj\Debug\netcoreapp3.1\EstruturaDoPrograma.AssemblyInfoInputs.cache
+d:\Users\vanessa.regina\Desktop\DIO - Bootcamp\EstruturaDOPrograma\obj\Debug\netcoreapp3.1\EstruturaDoPrograma.AssemblyInfo.cs
+d:\Users\vanessa.regina\Desktop\DIO - Bootcamp\EstruturaDOPrograma\obj\Debug\netcoreapp3.1\EstruturaDoPrograma.dll
+d:\Users\vanessa.regina\Desktop\DIO - Bootcamp\EstruturaDOPrograma\obj\Debug\netcoreapp3.1\EstruturaDoPrograma.pdb
